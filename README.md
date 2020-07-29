@@ -6,6 +6,7 @@
   "11" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/a32675c0aca5dbbf5340e44d9b84b2b2?type=shadowrocket&ip=0&flow=0",
   "4" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/1702f391834f75c4cc5f0bb6d08830ae?type=shadowrocket&ip=0&flow=0",
   "12" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/51aaaa93169c7b6be29e9be00fd21c29?type=shadowrocket&ip=0&flow=0",
+  "5" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/f10383828c6dfce4e1f72e0ce806dfb2?type=shadowrocket&ip=0&flow=0",
   "6" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/5d7df1fc14281fcddd4d0de0d944d426?type=shadowrocket&ip=0&flow=0",
   "13" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/5f3bb39807c8968bd53c7d57031eecd4?type=shadowrocket&ip=0&flow=0",
   "7" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/5b9272c91c49a33eaf16f6faa6f0ef28?type=shadowrocket&ip=0&flow=0",
