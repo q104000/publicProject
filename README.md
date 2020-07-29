@@ -1,5 +1,6 @@
 { "ss" : {
   "7" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/5b9272c91c49a33eaf16f6faa6f0ef28?type=shadowrocket&ip=0&flow=0",
+  "13" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/5f3bb39807c8968bd53c7d57031eecd4?type=shadowrocket&ip=0&flow=0",
   "8" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/211fefcb2241590833770911b2a1f1d3?type=shadowrocket&ip=0&flow=0",
   "11" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/a32675c0aca5dbbf5340e44d9b84b2b2?type=shadowrocket&ip=0&flow=0",
   "0" : "https:\/\/91ss.cloud\/api\/user\/account\/subscribe\/98e5bccefa21fb2c3dc362cb516f409c?type=shadowrocket&ip=0&flow=0",
